@@ -1,0 +1,6 @@
+[sire-jc@sirejc-ms7b84 ghdl_test]$ ghdl -s ha_tb.vhdl //test syntaxe
+[sire-jc@sirejc-ms7b84 ghdl_test]$ ghdl -a ha_tb.vhdl //analyse
+[sire-jc@sirejc-ms7b84 ghdl_test]$ ghdl -a ha.vhdl 
+[sire-jc@sirejc-ms7b84 ghdl_test]$ ghdl -e ha_tb //elaborate
+[sire-jc@sirejc-ms7b84 ghdl_test]$ ghdl -r ha_tb //run
+ha_tb.vhdl:42:17:@5ns:(assertion error): Reached end of test !

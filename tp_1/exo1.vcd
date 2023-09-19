@@ -1,0 +1,36 @@
+$date
+  Mon Sep 11 22:56:27 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module exo1_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # com $end
+$var reg 1 $ s $end
+$scope module c1 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+U$
+#1000000
+1!
+#2000000
+0!
+1"
+1#
+#3000000
+1!
+#4000000
